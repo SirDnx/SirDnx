@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirDnx&theme=radical"/>
 </div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirDnx&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com/?user=SirDnx&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SirDnx&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com/?user=SirDnx&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=141321&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
 ### Tecnologias que utilizo: 
